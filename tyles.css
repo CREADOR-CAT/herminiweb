@@ -1,3 +1,4 @@
+
 * {
     margin: 0;
     padding: 0;
@@ -7,7 +8,7 @@ body {
     background-image: url(Subcarpeta/ZZS.jpg);
 }
 
-.form-registro {
+.formule {
     width: 400px;
     background-color: black;
     padding: 30px;
@@ -19,12 +20,12 @@ body {
     box-shadow: 7px 13px 37px #1f1f1f;
 }
 
-.form-registro h4 {
+.formule h4 {
     font-size: 22px;
     margin-bottom: 20px;
 }
 
-.controls {
+.llama {
     width: 100%;
     background-color: rgb(24, 24, 23);
     padding: 10px;
@@ -36,7 +37,7 @@ body {
     color: azure;
 }
 
-.form-registro p {
+.formule p {
     height: 40px;
     text-align: center;
     font-size: 18px;
@@ -44,17 +45,17 @@ body {
 
 }
 
-.form-registro a {
+.formule a {
     color: aliceblue;
     text-decoration: none;
 }
 
-.form-registro a:hover {
+.formule a:hover {
     color: aliceblue;
     text-decoration: underline;
 }
 
-.form-registro .botons {
+.formule .botons {
     width: 100%;
     background-color: brown;
     border: none;
@@ -64,3 +65,7 @@ body {
     font-size: 16px;
 }
 
+#botones {
+    background-color: red;
+    color: azure;
+}
